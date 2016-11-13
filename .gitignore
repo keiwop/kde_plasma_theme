@@ -1,0 +1,6 @@
+/contents/splash/launch_qml
+/contents/splash/*.o
+/contents/splash/Makefile
+/contents/splash/Makefile.old
+/contents/splash/.qmake.stash
+
